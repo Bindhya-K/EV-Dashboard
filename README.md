@@ -9,12 +9,18 @@ This project combines data analysis, visualization, and lightweight ML models in
 * Average battery capacity & energy consumption
 * Dynamic KPI cards
 * Auto‑rotating showcase of top EV models
+
+![Home Page](screenshots/image-1.png)
+
+
 2. EV Explorer(India)
 * Filter & explore EV models based on:
     - Manufacturer
     - Body type
     - Charging port
     - Range
+
+    ![Explorer Page](screenshots/image-2.png)
 
 * Technical insights include:
     - Top brands by rating
@@ -23,6 +29,8 @@ This project combines data analysis, visualization, and lightweight ML models in
     - Range vs battery relationship
     - Price & range distributions
     - Body‑type market share
+
+    ![Technical Insights](screenshots/image-3.png)
 3. EV Sales Analytics
 * India‑Focused Analysis:
     - State‑wise EV sales
@@ -30,10 +38,14 @@ This project combines data analysis, visualization, and lightweight ML models in
     - EV penetration percentage over time
     - Month & year dynamic filtering
 
+    ![Sales Page](screenshots/image-4.png)
+
 * Global EV Trends:
     - Historical vs projected EV sales
     - Battery demand growth
     - Regional comparisons (World / Country level)
+
+    ![Global Market](screenshots/image-5.png)
 4. Charging Infrastructure Insights
 * State‑wise public EV charging stations in India
 * AC vs DC charging time comparison (top brands)
@@ -41,6 +53,9 @@ This project combines data analysis, visualization, and lightweight ML models in
     - Based on charger type
     - State‑wise electricity tariff
     - Charging efficiency losses
+
+    ![Charging Analysis](screenshots/image-6.png)
+    ![Calculation Page](screenshots/image-7.png)
 5. EV Range & Price Prediction (ML)
 * Two lightweight regression models trained on real‑world Indian EV data
 * Range Prediction
@@ -51,6 +66,8 @@ This project combines data analysis, visualization, and lightweight ML models in
     - Performance: Indicative estimates (R² ≈ 0.35)
 ⚠️ Predictions are approximate and intended for analytical insights, not exact valuations.
 
+
+![Prediction Page](screenshots/image-8.png)
 ## Tech Stack
 
 * Python
@@ -62,7 +79,7 @@ This project combines data analysis, visualization, and lightweight ML models in
 
 ## 📁 Project Structure
 
-![alt text](image.png)
+![folder](screenshots/image.png)
 
 ## Key Learnings
 
